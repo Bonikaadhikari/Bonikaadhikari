@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with Python and Django<br>🌱 I’m currently learning Python and Django<br>⚡ Fun fact: Self Taught Programmer on the way
+🤝 I’m looking for help with Python and Django<br> 🌱 I’m currently learning Basics of Web<br>⚡ Fun fact: Self Taught Programmer on the way
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bonikaadhikari&icon=0&color=0)](https://visitcount.itsvg.in)
