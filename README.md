@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with Python <br> 🌱 I’m currently learning Basics of Web and Problem Solving<br>⚡ Fun fact: Self Taught Programmer on the way
+🤝 I’m looking for help with Quality Assurance <br> 🌱 I’m currently learning QA
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bonikaadhikari&icon=0&color=0)](https://visitcount.itsvg.in)
